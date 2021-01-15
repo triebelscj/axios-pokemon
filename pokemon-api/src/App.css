@@ -1,0 +1,32 @@
+
+
+.everythingCenter{
+  width: 100vw;
+  max-height: 150vh;
+  margin: 0 auto;
+  padding-top: 100px;
+}
+
+h1{
+  text-align: center;
+}
+
+
+.toCenter{
+
+  padding-top: 50px;
+  text-align: center;
+  width: 1400px;
+}
+
+button{
+  width: 200px;
+  height: 60px;
+  margin: 0 auto;
+  display: block;
+}
+
+p{
+  position: relative;
+  overflow-wrap: break-word;
+}
